@@ -1,4 +1,4 @@
-# data_preprocessing
+# data_cleaning
 
 for raw data: https://www.kaggle.com/datasets/kushsheth/los-angeles-police-department-lapd-crime-data
 
